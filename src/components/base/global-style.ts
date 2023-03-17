@@ -23,7 +23,7 @@ const GlobalStyle = createGlobalStyle`
     font-display: fallback; /* <- this can be added to each @font-face definition */
     font-family: ${fontFamily.primary};
     font-weight:${fontWeight.medium};
-    background-color:orange; //rgb(33,33,33);
+    background-color: white;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }

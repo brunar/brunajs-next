@@ -1,4 +1,4 @@
-RGB Creative developed by Bruna Radeke [brunajs.com](https://brunajs.com/).
+RGB Creative developed by Bruna Radeke [brunajs.com](https://www.brunajs.com/).
 
 ## BrunaJs Live Tsx/NextJs
 
