@@ -1,6 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+RGB Creative developed by Bruna Radeke [brunajs.com](https://brunajs.com/).
 
-## Getting Started
+## BrunaJs Live Tsx/NextJs
 
 First, run the development server:
 

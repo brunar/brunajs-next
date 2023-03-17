@@ -15,6 +15,7 @@ const HeaderBg = styled.header<HeaderBgProps>`
   display: flex;
   color: blue;
   background-color: ${(props) => (props.bg ? 'greenyellow' : 'white')};
+  box-shadow: ${(props) => (props.bg ? 'none' : '0 2px 0 rgb(0 0 0 / 10%)')};
   position: fixed;
   z-index: 99998;
 `;
